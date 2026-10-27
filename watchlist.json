@@ -1,0 +1,45 @@
+{
+  "min_usdt": 1.0,
+  "direcciones": [
+    {
+      "address": "0x55475528321A69C251BBd1A5e002BE9bAf65D70c",
+      "nombre": "PARK1 - reserva con 3,260 USDT robados (sin gas)",
+      "prioridad": "alta"
+    },
+    {
+      "address": "0xd4493c379696e596836a8A70466aDEe5D9107e2f",
+      "nombre": "DRAINER principal (cobró el robo)",
+      "prioridad": "alta"
+    },
+    {
+      "address": "0x5547777b4b93fa28b426a60617c8c3fff5cad70c",
+      "nombre": "PARK2 - segunda reserva del grupo",
+      "prioridad": "alta"
+    },
+    {
+      "address": "0xd05886883D21A385B63a61d169C7bc3F9A5fC36E",
+      "nombre": "Bot que ejecuta las firmas (fondeó al drainer)",
+      "prioridad": "normal"
+    },
+    {
+      "address": "0xEb9C5c2a4E2ab196474F7f70DE74383FE46136Fc",
+      "nombre": "Wallet del QR 'Wallet estafador'",
+      "prioridad": "normal"
+    },
+    {
+      "address": "0xdDbeE838A19693577FE43cBb7b9b29A8e2a8A158",
+      "nombre": "Recibió 14.56 POL de la wallet del QR",
+      "prioridad": "normal"
+    },
+    {
+      "address": "0x51d295a3885e5bb8c10564c033df2472e8a162a2",
+      "nombre": "Wallet de paso / otra víctima (recibió 1,227 USDT del drainer)",
+      "prioridad": "normal"
+    },
+    {
+      "address": "0x24E3F9C7e49462DA6455953348BC72D19212E8d5",
+      "nombre": "Wallet de la víctima (NO depositar, permiso del atacante activo)",
+      "prioridad": "normal"
+    }
+  ]
+}
