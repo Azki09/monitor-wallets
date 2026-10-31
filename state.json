@@ -1,11 +1,11 @@
 {
-  "last_block": 96486727,
-  "ultimo_resumen": "2026-10-30",
+  "last_block": 96501582,
+  "ultimo_resumen": "2026-10-31",
   "snapshot": {
     "0x55475528321a69c251bbd1a5e002be9baf65d70c": {
-      "pol": 9.893551091960328,
-      "usdt": 320.002088,
-      "nonce": 5
+      "pol": 9.848373338113205,
+      "usdt": 100.002346,
+      "nonce": 7
     },
     "0xd4493c379696e596836a8a70466adee5d9107e2f": {
       "pol": 6.203990228118484,
@@ -43,6 +43,6 @@
       "nonce": 0
     }
   },
-  "ultima_revision_utc": "2026-10-31 08:32:33 UTC",
+  "ultima_revision_utc": "2026-10-31 14:43:57 UTC",
   "pendientes": []
 }
