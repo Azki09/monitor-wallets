@@ -1,5 +1,5 @@
 {
-  "last_block": 96511444,
+  "last_block": 96519749,
   "ultimo_resumen": "2026-10-31",
   "snapshot": {
     "0x55475528321a69c251bbd1a5e002be9baf65d70c": {
@@ -43,6 +43,6 @@
       "nonce": 0
     }
   },
-  "ultima_revision_utc": "2026-10-31 18:50:29 UTC",
+  "ultima_revision_utc": "2026-10-31 22:18:07 UTC",
   "pendientes": []
 }
