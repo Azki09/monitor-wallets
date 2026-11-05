@@ -1,6 +1,6 @@
 {
-  "last_block": 96781193,
-  "ultimo_resumen": "2026-11-04",
+  "last_block": 96799417,
+  "ultimo_resumen": "2026-11-05",
   "snapshot": {
     "0x55475528321a69c251bbd1a5e002be9baf65d70c": {
       "pol": 9.826926712556277,
@@ -8,9 +8,9 @@
       "nonce": 8
     },
     "0xd4493c379696e596836a8a70466adee5d9107e2f": {
-      "pol": 4.118737310714284,
-      "usdt": 504.523403,
-      "nonce": 37
+      "pol": 4.101360730600872,
+      "usdt": 304.523423,
+      "nonce": 38
     },
     "0x5547777b4b93fa28b426a60617c8c3fff5cad70c": {
       "pol": 0.0,
@@ -28,9 +28,9 @@
       "nonce": 2
     },
     "0xddbee838a19693577fe43cbb7b9b29a8e2a8a158": {
-      "pol": 2.195247359740442,
+      "pol": 2.1789578544996373,
       "usdt": 0.0,
-      "nonce": 2
+      "nonce": 3
     },
     "0x51d295a3885e5bb8c10564c033df2472e8a162a2": {
       "pol": 10.376541582877454,
@@ -43,6 +43,6 @@
       "nonce": 0
     }
   },
-  "ultima_revision_utc": "2026-11-05 11:14:12 UTC",
+  "ultima_revision_utc": "2026-11-05 18:49:48 UTC",
   "pendientes": []
 }
