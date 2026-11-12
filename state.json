@@ -1,5 +1,5 @@
 {
-  "last_block": 97143365,
+  "last_block": 97159151,
   "ultimo_resumen": "2026-11-11",
   "snapshot": {
     "0x55475528321a69c251bbd1a5e002be9baf65d70c": {
@@ -8,9 +8,9 @@
       "nonce": 8
     },
     "0xd4493c379696e596836a8a70466adee5d9107e2f": {
-      "pol": 4.046360528551014,
-      "usdt": 0.00027,
-      "nonce": 41
+      "pol": 4.027148138795275,
+      "usdt": 0.0,
+      "nonce": 42
     },
     "0x5547777b4b93fa28b426a60617c8c3fff5cad70c": {
       "pol": 0.0,
@@ -43,6 +43,6 @@
       "nonce": 0
     }
   },
-  "ultima_revision_utc": "2026-11-11 18:08:30 UTC",
+  "ultima_revision_utc": "2026-11-12 00:43:10 UTC",
   "pendientes": []
 }
